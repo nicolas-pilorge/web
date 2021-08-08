@@ -96,6 +96,8 @@
 	content: "Acá vas a poder encontrar todos mis videos.";
 	white-space: initial;
 }
+
+/* Twitch */
 .button.button-twitch {
 	color: #ffffff;
 	background-color: #6441a5;
