@@ -93,16 +93,16 @@
 }
 .button.button-youtube:hover,
 .button.button-youtube:hover:before {
-	content: "Acá vas a poder encontrar todos mis videos y directos.";
+	content: "Acá vas a poder encontrar todos mis videos.";
 	white-space: initial;
 }
-.button.button-youtube-1 {
+.button.button-twitch {
 	color: #ffffff;
-	background-color: #ff0000;
+	background-color: #6441a5;
 }
-.button.button-youtube-1:hover,
-.button.button-youtube-1:hover:before {
-	content: "Canal dedicado a contenido fuera del gaming.";
+.button.button-twitch:hover,
+.button.button-twitch:hover:before {
+	content: "Contenido en vivo!";
 	white-space: initial;
 }
 
