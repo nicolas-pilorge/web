@@ -97,6 +97,16 @@
 	white-space: initial;
 }
 
+.button.button-clips {
+	color: #ffffff;
+	background-color: #ff0000;
+}
+.button.button-clips:hover,
+.button.button-clips:hover:before {
+	content: "Acá vas a poder encontrar clips sacados del directo.";
+	white-space: initial;
+}
+
 /* Twitch */
 .button.button-twitch {
 	color: #ffffff;
